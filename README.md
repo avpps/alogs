@@ -1,4 +1,4 @@
 # alogs
 
 
-Familiarize web logs providing statistics and charts.
+Familiarize web logs providing statistics and charts
