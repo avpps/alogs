@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-home",
+      "appliesTo": "palogs/templates/palogs/home.html",
+      "type": "command"
+    }
+  ]
+}

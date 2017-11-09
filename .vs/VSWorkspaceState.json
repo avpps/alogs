@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\alogs"
+    "\\alogs",
+    "\\palogs",
+    "\\palogs\\templates",
+    "\\palogs\\templates\\palogs",
+    "\\palogs\\views"
   ],
+  "SelectedNode": "\\LICENSE",
   "PreviewInSolutionExplorer": false
 }
